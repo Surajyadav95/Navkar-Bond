@@ -171,7 +171,43 @@
            
 </div>
 
+    <div class="col-md-5 col-xs-6 text-label" runat="server" id="div1" style="width:280px">
+                  
+<div class="col-sm-12 col-xs-12 panel " style="height:50px;display: inline-block;background-color:rgb(192, 37, 84);margin-right:32px;padding:initial;border-color:rgb(241, 240, 248);">
+                              
+<div class="col-md-9 col-xs-8 pull-right" style="margin-top:-12px;text-align:left;color:white;font-size:large" >
 
+<br />
+ <a href="CancelUnloadingSheet.aspx"  style="color:white" onclick='return pop("CancelUnloadingSheet.aspx",900,550,70,300);'>Cancel Un-Loading Sheet Entry
+</a>
+                  
+<br /><br />
+</div>
+       
+<br />
+            
+</div>
+           
+</div>
+
+    <div class="col-md-5 col-xs-6 text-label" runat="server" id="div2" style="width:280px">
+                  
+<div class="col-sm-12 col-xs-12 panel " style="height:50px;display: inline-block;background-color:rgb(192, 37, 84);margin-right:32px;padding:initial;border-color:rgb(241, 240, 248);">
+                              
+<div class="col-md-9 col-xs-8 pull-right" style="margin-top:-12px;text-align:left;color:white;font-size:large" >
+
+<br />
+ <a href="CancelUnloadingSheet.aspx"  style="color:white" onclick='return pop("CancelUnloadingSheet.aspx",900,550,70,300);'>Cancel Loading Sheet Entry
+</a>
+                  
+<br /><br />
+</div>
+       
+<br />
+            
+</div>
+           
+</div>
 </div>
         
 </div>
